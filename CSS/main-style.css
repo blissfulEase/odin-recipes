@@ -1,0 +1,41 @@
+/* || GENERAL STYLE*/
+
+html {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    background-color: antiquewhite;
+}
+
+/* || LISTS */
+
+ul {
+    list-style: inside none;
+    font-size: 1.2em;
+    font-style: oblique;
+}
+
+li {
+    padding: 24px 0;
+    margin: 12px;
+    background-color: rgba(238, 158, 39, 0.185);
+    border-radius: 25px;
+}
+
+/* || COLORS */
+
+h1 {
+    color:rgb(240, 159, 38);
+}
+
+a {
+    color: rgb(204, 128, 14);
+    
+}
+
+a:hover {
+    color:darkslategray;
+}
+
+a:active {
+    color: midnightblue;
+}
